@@ -1,4 +1,4 @@
-# notes
+# Git Command Notes
 
 ###### git init 初始化一个git的项目
 
