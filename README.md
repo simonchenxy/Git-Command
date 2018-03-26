@@ -31,3 +31,6 @@
 ###### git push 将本地分支推送到服务器上去。
 
 ###### git checkout <branch name>   跳转本地分支或拉取本地不存在的分支
+###### git checkout <brnach name> -f 强制跳转分支（会丢失之前分支的修改内容）
+
+###### git stash 暂存分支
