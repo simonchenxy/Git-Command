@@ -32,5 +32,7 @@
 
 ###### git checkout <branch name>   跳转本地分支或拉取本地不存在的分支
 ###### git checkout <brnach name> -f 强制跳转分支（会丢失之前分支的修改内容）
+###### git checkout --track origin/远程分支名 拉取远端分支
+###### git checkout -t origin/远程分支名 拉取远端分支（上面操作的缩写）
 
 ###### git stash 暂存分支
